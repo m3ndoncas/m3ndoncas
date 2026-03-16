@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**m3ndoncas/m3ndoncas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Vitor Mendonça
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação e entusiasta de tecnologia.  
+Atualmente atuo como **estagiário na área de desenvolvimento**, trabalhando principalmente com tecnologias do ecossistema web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho grande interesse em **desenvolvimento front-end, lógica de programação e boas práticas de código**.  
+Estou sempre estudando e buscando evoluir como desenvolvedor.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### Front-end
+- React
+- JavaScript
+- HTML5
+- CSS3
+
+### Back-end / Estudos atuais
+- C#
+- .NET (em aprendizado)
+
+### Ferramentas
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Atualmente estudando
+
+- C# e fundamentos de orientação a objetos  
+- Desenvolvimento com .NET  
+- Estruturação de projetos e boas práticas de código
+
+## 🌎 Onde me encontrar
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/vitormendonçaa
+

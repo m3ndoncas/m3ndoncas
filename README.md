@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 Olá, eu sou o Vitor Mendonça
+
+# Olá, eu sou o Vitor Mendonça
 
 💻 Desenvolvedor em formação e entusiasta de tecnologia.  
 Atualmente atuo como **estagiário na área de desenvolvimento**, trabalhando principalmente com tecnologias do ecossistema web.

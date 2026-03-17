@@ -35,6 +35,14 @@ Estou sempre estudando e buscando evoluir como desenvolvedor.
 - Desenvolvimento com .NET  
 - Estruturação de projetos e boas práticas de código
 
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitormendonçaa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormendonçaa&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌎 Onde me encontrar
 
 - 💼 LinkedIn:  

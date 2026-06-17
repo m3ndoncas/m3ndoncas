@@ -21,7 +21,8 @@ Estou sempre estudando e buscando evoluir como desenvolvedor.
 ### Back-end / Estudos atuais
 - C#
 - .NET (em aprendizado)
-
+- Python
+- 
 ### Ferramentas
 - Git
 - GitHub
